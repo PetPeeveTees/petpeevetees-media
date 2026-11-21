@@ -12,6 +12,14 @@
   "library_colors": [
    "white",
    "pink"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -30,6 +38,14 @@
   "library_colors": [
    "white",
    "yellow"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -47,6 +63,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -67,6 +91,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -87,6 +119,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -107,6 +147,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -127,6 +175,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -145,6 +201,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -166,6 +230,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -181,6 +253,14 @@
   "library_colors": [
    "white",
    "pink"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -200,6 +280,14 @@
   "library_colors": [
    "white",
    "yellow"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -215,6 +303,14 @@
   "library_colors": [
    "white",
    "pink"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -235,6 +331,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -254,6 +358,14 @@
   "library_colors": [
    "white",
    "yellow"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -273,6 +385,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -295,6 +415,14 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
   ]
  },
  {
@@ -316,6 +444,336 @@
   "library_colors": [
    "white",
    "steel-blue"
+  ],
+  "views": [
+   "design",
+   "flat-front",
+   "model-front",
+   "model-angle",
+   "model-back",
+   "couple"
+  ]
+ },
+ {
+  "design": "Wash Your Hands",
+  "slug": "wash-your-hands",
+  "color_count": 10,
+  "library_colors": [
+   "athletic-heather",
+   "white",
+   "yellow"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Don't Coach From The Stands",
+  "slug": "dont-coach-from-the-stands",
+  "color_count": 7,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Reality Is Science-Based",
+  "slug": "reality-is-science-based",
+  "color_count": 7,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Stop Interrupting",
+  "slug": "stop-interrupting",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Pick Up Your Dirty Clothes",
+  "slug": "pick-up-your-dirty-clothes",
+  "color_count": 8,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Stop Asking If It's Available",
+  "slug": "stop-asking-if-its-available",
+  "color_count": 10,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Pave The Roads",
+  "slug": "pave-the-roads",
+  "color_count": 7,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Leave Your Seat Up",
+  "slug": "leave-your-seat-up",
+  "color_count": 10,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Replace The Roll",
+  "slug": "replace-the-roll",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Cover Your Mouth",
+  "slug": "cover-your-mouth",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Put The Cap Back On",
+  "slug": "put-the-cap-back-on",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Wait Your Turn",
+  "slug": "wait-your-turn",
+  "color_count": 10,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "The Book Was Not Better Than The Movie",
+  "slug": "the-book-was-not-better-than-the-movie",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Fix The T",
+  "slug": "fix-the-t",
+  "color_count": 8,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Play Out Your Putt",
+  "slug": "play-out-your-putt",
+  "color_count": 4,
+  "library_colors": [
+   "athletic-heather",
+   "pink",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Stay Off The Line Of Play",
+  "slug": "stay-off-the-line-of-play",
+  "color_count": 4,
+  "library_colors": [
+   "athletic-heather",
+   "pink",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Don't Talk During My Swing",
+  "slug": "dont-talk-during-my-swing",
+  "color_count": 4,
+  "library_colors": [
+   "athletic-heather",
+   "pink",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Don't Slurp",
+  "slug": "dont-slurp",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Use Deodorant",
+  "slug": "use-deodorant",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Put The Cart Back",
+  "slug": "put-the-cart-back",
+  "color_count": 5,
+  "library_colors": [
+   "athletic-heather",
+   "white",
+   "yellow"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Send An Email Instead",
+  "slug": "send-an-email-instead",
+  "color_count": 9,
+  "library_colors": [
+   "athletic-heather",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Put The Seat Down",
+  "slug": "put-the-seat-down",
+  "color_count": 4,
+  "library_colors": [
+   "mauve",
+   "steel-blue",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
+  ]
+ },
+ {
+  "design": "Use A Trash Can",
+  "slug": "use-a-trash-can",
+  "color_count": 3,
+  "library_colors": [
+   "athletic-heather",
+   "leaf",
+   "white"
+  ],
+  "views": [
+   "design",
+   "flat-front"
   ]
  }
 ]
