@@ -8,7 +8,7 @@ Used by the daily scheduled task that makes one post per day for Instagram (@pet
 - Font: Poppins Bold / Medium (/usr/share/fonts/truetype/google-fonts/).
 - Logo: "PET / PEEVE / TEES" stacked in a circle (see `logo()` in tools/sample_build.py).
 - Every post points to the website: captions end with "petpeevetees.com (link in bio)". Never send people to Etsy or Amazon.
-- Facts we can state: unisex sizes S–5XL, free US shipping on petpeevetees.com, the color count from library/designs.json. Do not mention prices, discounts or codes unless Joe asks.
+- Facts we can state: unisex sizes S–5XL, free US shipping on petpeevetees.com, the color count from library/designs.json. Don't feature a third-party logo (e.g. the Facebook logo on Stop Asking If It's Available) as the main visual of a post. Do not mention prices, discounts or codes unless Joe asks.
 
 ## Formats (rotate by weekday)
 - Mon: "Pet peeve of the week" short video, 9:16 1080x1920, 12–15 s, MP4 H.264 (-preset veryfast), silent audio track. Hook text → reaction beat → design close-up → model shot → end card.
@@ -20,10 +20,10 @@ Used by the daily scheduled task that makes one post per day for Instagram (@pet
 - Sun: light post — design close-up with a relatable one-line caption.
 
 ## Source images
-`library/<slug>/<color>_<view>.jpg` — views: design, flat-front, model-front, model-angle, model-back, couple. `library/designs.json` lists every design, its colors and color count. Never alter the shirt art itself.
+`library/<slug>/<color>_<view>.jpg` — views: design, flat-front, model-front, model-angle, model-back, couple. `library/designs.json` lists every design, its color count, which colors are in the library and which `views` exist. The first 17 designs have all six views; the other designs only have `design` and `flat-front` (no model photos) — for those, build posts from the close-up and flat shirt, and prefer the 17 full designs for video and couple/model-heavy formats. Be On Time and Don't Talk During The Movie are not in the library yet; skip them until they are. Never alter the shirt art itself.
 
 ## Rotation
-`history.json` records what was posted. Don't feature the same design twice within 10 days; spread golf designs (Rake The Bunker, Put The Flag Back, Replace Your Divot) and work/home/road designs evenly. Spoiler Chicago is a niche inside-joke design — use rarely.
+`history.json` records what was posted. Don't feature the same design twice within 10 days; spread golf designs (Rake The Bunker, Put The Flag Back, Replace Your Divot) and work/home/road designs evenly. Spoiler Chicago is a niche inside-joke design — use rarely. Boston designs (Fix The T, Pave The Roads) fit local/Boston-themed days.
 
 ## Publishing
 1. Render media, commit to `posts/YYYY-MM-DD/`, push.
