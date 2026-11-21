@@ -20,7 +20,7 @@ Used by the daily scheduled task that makes one post per day for Instagram (@pet
 - Sun: light post — design close-up with a relatable one-line caption.
 
 ## Source images
-`library/<slug>/<color>_<view>.jpg` — views: design, flat-front, model-front, model-angle, model-back, couple. `library/designs.json` lists every design, its color count, which colors are in the library and which `views` exist. The first 17 designs have all six views; the other designs only have `design` and `flat-front` (no model photos) — for those, build posts from the close-up and flat shirt, and prefer the 17 full designs for video and couple/model-heavy formats. Be On Time and Don't Talk During The Movie are not in the library yet; skip them until they are. Never alter the shirt art itself.
+`library/<slug>/<color>_<view>.jpg` — views: design, flat-front, model-front, model-angle, model-back, couple. `library/designs.json` lists every design, its color count, which colors are in the library and which `views` exist. The first 17 designs have all six views; the other designs only have `design` and `flat-front` (no model photos) — for those, build posts from the close-up and flat shirt, and prefer the 17 full designs for video and couple/model-heavy formats. Never alter the shirt art itself.
 
 ## Rotation
 `history.json` records what was posted. Don't feature the same design twice within 10 days; spread golf designs (Rake The Bunker, Put The Flag Back, Replace Your Divot) and work/home/road designs evenly. Spoiler Chicago is a niche inside-joke design — use rarely. Boston designs (Fix The T, Pave The Roads) fit local/Boston-themed days.
