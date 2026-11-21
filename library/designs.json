@@ -1,0 +1,321 @@
+[
+ {
+  "design": "Rake The Bunker",
+  "slug": "rake-the-bunker",
+  "colors_available": [
+   "athletic-heather",
+   "leaf",
+   "pink",
+   "white"
+  ],
+  "color_count": 4,
+  "library_colors": [
+   "white",
+   "pink"
+  ]
+ },
+ {
+  "design": "Maintain Personal Space",
+  "slug": "maintain-personal-space",
+  "colors_available": [
+   "athletic-heather",
+   "black-heather",
+   "heather-true-royal",
+   "light-blue",
+   "pink",
+   "white",
+   "yellow"
+  ],
+  "color_count": 7,
+  "library_colors": [
+   "white",
+   "yellow"
+  ]
+ },
+ {
+  "design": "Chew With Your Mouth Closed",
+  "slug": "chew-with-your-mouth-closed",
+  "colors_available": [
+   "athletic-heather",
+   "light-blue",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 6,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Use Your Turn Signal",
+  "slug": "use-your-turn-signal",
+  "colors_available": [
+   "athletic-heather",
+   "heather-prism-dusty-blue",
+   "light-blue",
+   "mauve",
+   "pebble",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 9,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Pick Up The Poop",
+  "slug": "pick-up-the-poop",
+  "colors_available": [
+   "athletic-heather",
+   "leaf",
+   "light-blue",
+   "mauve",
+   "pebble",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 9,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Close Your Drawers",
+  "slug": "close-your-drawers",
+  "colors_available": [
+   "athletic-heather",
+   "leaf",
+   "light-blue",
+   "mauve",
+   "pebble",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 9,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Put Down Your Phone",
+  "slug": "put-down-your-phone",
+  "colors_available": [
+   "athletic-heather",
+   "leaf",
+   "light-blue",
+   "mauve",
+   "pebble",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 9,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Stay Home If You're Sick",
+  "slug": "stay-home-if-youre-sick",
+  "colors_available": [
+   "athletic-heather",
+   "leaf",
+   "light-blue",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 7,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Stop Hiding The Remote",
+  "slug": "stop-hiding-the-remote",
+  "colors_available": [
+   "athletic-heather",
+   "black-heather",
+   "cardinal",
+   "leaf",
+   "light-blue",
+   "navy",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 10,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Put The Flag Back",
+  "slug": "put-the-flag-back",
+  "colors_available": [
+   "athletic-heather",
+   "leaf",
+   "pink",
+   "white"
+  ],
+  "color_count": 4,
+  "library_colors": [
+   "white",
+   "pink"
+  ]
+ },
+ {
+  "design": "Spoiler Chicago",
+  "slug": "spoiler-chicago",
+  "colors_available": [
+   "athletic-heather",
+   "black-heather",
+   "forest",
+   "light-blue",
+   "navy",
+   "pink",
+   "white",
+   "yellow"
+  ],
+  "color_count": 8,
+  "library_colors": [
+   "white",
+   "yellow"
+  ]
+ },
+ {
+  "design": "Replace Your Divot",
+  "slug": "replace-your-divot",
+  "colors_available": [
+   "athletic-heather",
+   "leaf",
+   "pink",
+   "white"
+  ],
+  "color_count": 4,
+  "library_colors": [
+   "white",
+   "pink"
+  ]
+ },
+ {
+  "design": "Leave The Thermostat Alone",
+  "slug": "leave-the-thermostat-alone",
+  "colors_available": [
+   "athletic-heather",
+   "heather-deep-teal",
+   "heather-orange",
+   "leaf",
+   "light-blue",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 9,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Don't Touch My Fries",
+  "slug": "dont-touch-my-fries",
+  "colors_available": [
+   "athletic-heather",
+   "black-heather",
+   "cardinal",
+   "light-blue",
+   "navy",
+   "pink",
+   "white",
+   "yellow"
+  ],
+  "color_count": 8,
+  "library_colors": [
+   "white",
+   "yellow"
+  ]
+ },
+ {
+  "design": "Grab Stuff Out Before You Board",
+  "slug": "grab-stuff-out-before-you-board",
+  "colors_available": [
+   "athletic-heather",
+   "black-heather",
+   "heather-true-royal",
+   "light-blue",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 8,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "Eat Your Smelly Food At Home",
+  "slug": "eat-your-smelly-food-at-home",
+  "colors_available": [
+   "athletic-heather",
+   "dark-grey-heather",
+   "heather-orange",
+   "heather-orchid",
+   "leaf",
+   "light-blue",
+   "pebble",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 11,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ },
+ {
+  "design": "No Need To Reply All",
+  "slug": "no-need-to-reply-all",
+  "colors_available": [
+   "athletic-heather",
+   "heather-orange",
+   "heather-orchid",
+   "heather-true-royal",
+   "light-blue",
+   "pebble",
+   "pink",
+   "steel-blue",
+   "white",
+   "yellow"
+  ],
+  "color_count": 10,
+  "library_colors": [
+   "white",
+   "steel-blue"
+  ]
+ }
+]
