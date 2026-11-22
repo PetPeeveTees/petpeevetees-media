@@ -25,8 +25,29 @@ Used by the daily scheduled task that makes one post per day for Instagram (@pet
 ## Rotation
 `history.json` records what was posted. Don't feature the same design twice within 10 days; spread golf designs (Rake The Bunker, Put The Flag Back, Replace Your Divot) and work/home/road designs evenly. Spoiler Chicago is a niche inside-joke design — use rarely. Boston designs (Fix The T, Pave The Roads) fit local/Boston-themed days.
 
+## Posting times (America/New_York) — based on 2026 Buffer, Sprout Social, Metricool and HubSpot studies
+| Day | Instagram | TikTok |
+|---|---|---|
+| Mon | 12:15 PM | 7:30 PM |
+| Tue | 12:15 PM | 7:30 PM |
+| Wed | 12:15 PM | 7:30 PM |
+| Thu | 12:15 PM | 7:30 PM |
+| Fri | 11:45 AM | 7:30 PM |
+| Sat | 11:15 AM | 10:45 AM |
+| Sun | 7:45 PM | 9:15 AM |
+Review after 3–4 weeks against Instagram Insights / TikTok Studio follower-activity data and adjust.
+
+## Reach & tagging best practices
+- Instagram allows at most 5 hashtags per post/Reel (hard limit since Dec 2025) — use exactly 5: #petpeevetees (branded) + #petpeeves + 1–2 topic tags for the design (e.g. #misophonia, #officehumor, #golfhumor, #dogmom, #roadrage) + 1 product/occasion tag (#funnytshirts, #giftsforhim, #giftsforher, #holidaygiftideas, #fathersdaygift…). No generic spam tags (#fyp, #instagood).
+- TikTok: 3–5 hashtags, and put plain search keywords in the caption itself ("funny t-shirt", "gift idea", the pet peeve in words) — TikTok search reads captions.
+- First line = hook (it's all people see before "more"). Ask for a comment ("Comment A or B", "Tag the person who…") — comments and shares drive distribution to non-followers.
+- Instagram: images/carousels 4:5, video as Reels with shouldShareToFeed true. Carousels get re-shown to people who didn't swipe.
+- Video: hook in the first second, on-screen text (most watch muted), under 15 s.
+- Seasonal angles: Nov–Dec = gift framing (Black Friday 11/27, Cyber Monday 11/30, "order by Dec 15 for Christmas delivery" is on the site banner). Golf designs in spring/summer and Father's Day; back-to-school/office designs in Sept.
+- Every post: one design focus, clear "petpeevetees.com (link in bio)" call to action.
+
 ## Publishing
-1. Render media, commit to `posts/YYYY-MM-DD/`, push.
+1. The daily run makes TOMORROW's post (America/New_York date + 1). Render media, commit to `posts/YYYY-MM-DD/` (the post's date), push.
 2. Public URL: https://raw.githubusercontent.com/PetPeeveTees/petpeevetees-media/main/posts/YYYY-MM-DD/<file>
-3. Buffer: create_post with saveToDraft=true, schedulingType=automatic, one draft per channel. Instagram: metadata.instagram {type: post|reel, shouldShareToFeed: true}. TikTok: metadata.tiktok {title}.
-4. Cleanup: delete `posts/` folders whose Buffer posts have been sent (status sent), or that are older than 7 days.
+3. Buffer: create_post with mode "customScheduled", dueAt = that day's time from the table above (ISO with the correct -05:00/-04:00 offset), schedulingType "automatic", one post per channel. Instagram: metadata.instagram {type: post|reel, shouldShareToFeed: true}. TikTok: metadata.tiktok {title}. Joe reviews the preview and can edit or delete in Buffer before it goes out.
+4. Cleanup: delete `posts/` folders older than 7 days.
