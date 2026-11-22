@@ -8,7 +8,13 @@ Used by the daily scheduled task that makes one post per day for Instagram (@pet
 - Font: Poppins Bold / Medium (/usr/share/fonts/truetype/google-fonts/).
 - Logo: "PET / PEEVE / TEES" stacked in a circle (see `logo()` in tools/sample_build.py).
 - Every post points to the website: captions end with "petpeevetees.com (link in bio)". Never send people to Etsy or Amazon.
-- Facts we can state: unisex sizes S–5XL, free US shipping on petpeevetees.com, the color count from library/designs.json. Don't feature a third-party logo (e.g. the Facebook logo on Stop Asking If It's Available) as the main visual of a post. Do not mention prices, discounts or codes unless Joe asks.
+- Facts we can state: unisex sizes S–5XL, free US shipping on petpeevetees.com, the color count from library/designs.json, and the active sale from the Sale calendar below (no other prices or codes). Don't feature a third-party logo (e.g. the Facebook logo on Stop Asking If It's Available) as the main visual of a post. Do not mention prices, discounts or codes unless Joe asks.
+
+## Sale calendar (website + Etsy, t-shirts only — no code needed, applied automatically)
+- Thu Nov 26 – Mon Nov 30, 2026: BLACK FRIDAY — 20% off every t-shirt at petpeevetees.com + free US shipping. Every post in this window leads with the sale: add a bold "20% OFF ALL TEES" badge to the graphic (red #B3262E pill), caption first line mentions Black Friday (Thu = "starts today", Mon = "Cyber Monday — last day"). Swap one topic hashtag for #blackfriday (Fri) or #cybermonday (Mon) on both platforms.
+- Tue Dec 1 – Thu Dec 31, 2026: HOLIDAY — 10% off every t-shirt at petpeevetees.com. Mention it in the caption (not necessarily the graphic). Until Dec 15 add "Order by Dec 15 for Christmas delivery"; Dec 16–24 push gift cards (instant, no shipping) instead.
+- Jan 1, 2027 onward: no sale — don't mention discounts.
+- Sales apply to t-shirts only (not mugs, polos, towels, prints). Point people to the website, never Etsy/Amazon.
 
 ## Formats (rotate by weekday)
 - Mon: "Pet peeve of the week" short video, 9:16 1080x1920, 12–15 s, MP4 H.264 (-preset veryfast), silent audio track. Hook text → reaction beat → design close-up → model shot → end card.
