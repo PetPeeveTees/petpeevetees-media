@@ -1,5 +1,7 @@
 # Pet Peeve Tees — daily social post playbook
 
+> **PAUSED by Joe on 2026-11-22: make no new posts until Joe reinstates.**
+
 Used by the daily scheduled task that makes one post per day for Instagram (@petpeevetees) and TikTok (@petpeevetees), saved to Buffer as drafts for Joe to approve.
 
 ## Brand
@@ -8,7 +10,7 @@ Used by the daily scheduled task that makes one post per day for Instagram (@pet
 - Font: Poppins Bold / Medium (/usr/share/fonts/truetype/google-fonts/).
 - Logo: "PET / PEEVE / TEES" stacked in a circle (see `logo()` in tools/sample_build.py).
 - Every post points to the website: captions end with "petpeevetees.com (link in bio)". Never send people to Etsy or Amazon.
-- Facts we can state: unisex sizes S–5XL, free US shipping on petpeevetees.com, the color count from library/designs.json, and the active sale from the Sale calendar below (no other prices or codes). Don't feature a third-party logo (e.g. the Facebook logo on Stop Asking If It's Available) as the main visual of a post. Do not mention prices, discounts or codes unless Joe asks.
+- Facts we can state: unisex sizes S–5XL, free US shipping on petpeevetees.com, the color count from library/designs.json, and the active sale from the Sale calendar below (no other prices or codes). Don't feature a third-party logo (e.g. the Facebook logo on Stop Asking If It's Available) as the main visual of a post.
 
 ## Sale calendar (website + Etsy, t-shirts only — no code needed, applied automatically)
 - Thu Nov 26 – Mon Nov 30, 2026: BLACK FRIDAY — 20% off every t-shirt at petpeevetees.com + free US shipping. Every post in this window leads with the sale: add a bold "20% OFF ALL TEES" badge to the graphic (red #B3262E pill), caption first line mentions Black Friday (Thu = "starts today", Mon = "Cyber Monday — last day"). Swap one topic hashtag for #blackfriday (Fri) or #cybermonday (Mon) on both platforms.
